@@ -1,5 +1,5 @@
 {
-  "name": "init-receipt",
+  "name": "nota-init",
   "version": "0.4.7",
   "description": "Receipt of Initialization",
   "main": "index.js",
@@ -9,16 +9,16 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "@MyReceipt",
+  "author": "Prof. NOTA",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myreceipt/myreceipt.git"
+    "url": "git+https://github.com/myreceiptt/myreceiptt.git"
   },
   "bugs": {
-    "url": "https://github.com/myreceipt/myreceipt/issues"
+    "url": "https://github.com/myreceiptt/myreceiptt/issues"
   },
-  "homepage": "https://github.com/myreceipt/myreceipt#readme",
+  "homepage": "https://github.com/myreceiptt/myreceiptt#readme",
   "dependencies": {
     "next": "^10.0.3",
     "react": "^17.0.1",

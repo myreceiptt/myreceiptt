@@ -1,0 +1,27 @@
+{
+  "name": "init-receipt",
+  "version": "0.4.7",
+  "description": "Receipt of Initialization",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "@MyReceipt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myreceipt/myreceipt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myreceipt/myreceipt/issues"
+  },
+  "homepage": "https://github.com/myreceipt/myreceipt#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

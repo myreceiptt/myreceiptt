@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myreceipt/github-init.git"
+    "url": "git+https://github.com/myreceiptt/myreceiptt.git"
   },
   "bugs": {
-    "url": "https://github.com/myreceipt/github-init/issues"
+    "url": "https://github.com/myreceiptt/myreceiptt/issues"
   },
-  "homepage": "https://github.com/myreceipt/github-init#readme",
+  "homepage": "https://github.com/myreceiptt/myreceiptt#readme",
   "dependencies": {
     "next": "^10.0.3",
     "react": "^17.0.1",
@@ -68,5 +68,5 @@ export default class extends Component {
 > 
 
 <!--
-**myreceipt/github-init** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on Prof. NOTA's GitHub profile.
+**myreceiptt/myreceiptt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on Prof. NOTA's GitHub profile.
 -->

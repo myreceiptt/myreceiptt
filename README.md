@@ -64,7 +64,7 @@ export default class extends Component {
 > 
 > [Prof. NOTA](https://deeplinks.straight-line.org/)
 > 
-> [straight-line.org](https://www.straight-line.org/)
+> [init.straight-line.org](https://init.straight-line.org/)
 > 
 
 <!--

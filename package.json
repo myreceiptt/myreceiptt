@@ -1,9 +1,9 @@
 {
-  "name": "nota-init",
+  "name": "init-it",
   "version": "0.4.7",
   "description": "Receipt of Initialization",
   "keywords": [],
-  "author": "Prof. NOTA",
+  "author": "MyReceipt",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -13,19 +13,15 @@
     "url": "https://github.com/myreceiptt/myreceiptt/issues"
   },
   "homepage": "https://github.com/myreceiptt/myreceiptt#readme",
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0"
-  },
-  "main": "/index.js",
-  "devDependencies": {
-    "react-scripts": "1.0.0"
-  },
+  "private": true,
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   }
 }

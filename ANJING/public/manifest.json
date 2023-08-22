@@ -1,0 +1,15 @@
+{
+  "short_name": "Init Page", 
+  "name": "MyReceipt: Initialization Page!",
+  "icons": [
+    {
+      "src": "1.21.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

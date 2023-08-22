@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import styles from '../styles/Home.module.css';
+import Head from "next/head";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -17,7 +17,10 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          <a href="https://www.straight-line.org" target='_blank'>MyReceipt</a> <code>init</code> Page!
+          <a href="https://www.straight-line.org" target="_blank">
+            MyReceipt
+          </a>{" "}
+          <code>init</code> Page!
         </h1>
 
         <p className={styles.description}>
@@ -25,18 +28,19 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://init.straight-line.org/" className={styles.card}>
-            <h3>Initialization Page &rarr;</h3>
-            <p>Start processes based on records read from the <a href="https://www.straight-line.org" target='_blank'>MyReceipt</a> files.</p>
-          </a>
-
-          <a href="https://prompt.straight-line.org/" className={styles.card} target='_blank'>
+          <a
+            href="https://prompt.straight-line.org/"
+            className={styles.card}
+            target="_blank"
+          >
             <h3>Console Prompts &rarr;</h3>
             <p>A window in which the text-mode programs are active.</p>
           </a>
 
           <a
-            href="https://deeplinks.straight-line.org/" className={styles.card} target='_blank'
+            href="https://deeplinks.straight-line.org/"
+            className={styles.card}
+            target="_blank"
           >
             <h3>The Deep Links &rarr;</h3>
             <p>Does not facilitate the access to or use of the links.</p>
@@ -45,23 +49,33 @@ export default function Home() {
           <a
             href="https://iqraa.straight-line.org/"
             className={styles.card}
+            target="_blank"
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>The KING's NFTs &rarr;</h3>
+            <p>Find all the information about The KING's NFTs project!</p>
+          </a>
+
+          <a
+            href="https://wp.straight-line.org/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Working Progress &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+              It’s a working progress, it's not a work in progress.</p>
           </a>
         </div>
       </main>
 
       <footer>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://www.straight-line.org/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+          <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
+          {" "}Init! Init it! Init!{" "}
+          <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
         </a>
       </footer>
 
@@ -84,6 +98,7 @@ export default function Home() {
         }
         footer img {
           margin-left: 0.5rem;
+          margin-right: 0.5rem;
         }
         footer a {
           display: flex;
@@ -97,8 +112,7 @@ export default function Home() {
           border-radius: 5px;
           padding: 0.75rem;
           font-size: 1.1rem;
-          font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-            DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+          font-family: Fira Code, monospace;
         }
       `}</style>
 
@@ -107,14 +121,12 @@ export default function Home() {
         body {
           padding: 0;
           margin: 0;
-          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-            Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-            sans-serif;
+          font-family: Fira Code, monospace;
         }
         * {
           box-sizing: border-box;
         }
       `}</style>
     </div>
-  )
+  );
 }

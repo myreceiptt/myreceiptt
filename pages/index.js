@@ -29,12 +29,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://prompt.straight-line.org/"
+            href="https://www.straight-line.org/"
             className={styles.card}
             target="_blank"
           >
-            <h3>Console Prompts &rarr;</h3>
-            <p>A window in which the text-mode programs are active.</p>
+            <h3>MyReceipt Home &rarr;</h3>
+            <p>A home is all MyReceipt wanted to be, even a straight line.</p>
           </a>
 
           <a
@@ -64,6 +64,42 @@ export default function Home() {
             <p>
               It’s a working progress, it's not a work in progress.</p>
           </a>
+
+          <a
+            href="https://endhonesa.com/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Online Store &rarr;</h3>
+            <p>Trade according to the resulting revenue and formed value.</p>
+          </a>
+
+          <a
+            href="https://skateshop.id/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Skateboards Shop &rarr;</h3>
+            <p>Will bring you all the best skateboarding goods.</p>
+          </a>
+
+          <a
+            href="https://init.straight-line.org/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Initialization Page &rarr;</h3>
+            <p>The init page initializes and controls processes.</p>
+          </a>
+
+          <a
+            href="https://prompt.straight-line.org/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Console Prompts &rarr;</h3>
+            <p>A window in which the text-mode programs are active.</p>
+          </a>
         </div>
       </main>
 
@@ -74,7 +110,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
-          {" "}Init! Init it! Init!{" "}
+          {" "}MyReceipt Rest in Proxy (R.I.P.) - 1983/2023{" "}
           <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
         </a>
       </footer>

@@ -12,7 +12,7 @@
 
 > Here are some ideas to get you started:
 
-```javascript
+```json
 {
   "name": "init-receipt",
   "version": "0.4.7",

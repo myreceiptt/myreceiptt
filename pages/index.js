@@ -39,6 +39,15 @@ export default function Home() {
           </a>
 
           <a
+            href="https://init.straight-line.org/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Initialization Page &rarr;</h3>
+            <p>The init page initializes and controls processes.</p>
+          </a>
+
+          <a
             href="https://deeplinks.straight-line.org/"
             className={styles.card}
             target="_blank"
@@ -67,6 +76,15 @@ export default function Home() {
           </a>
 
           <a
+            href="https://prompt.straight-line.org/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Console Prompts &rarr;</h3>
+            <p>A window in which the text-mode programs are active.</p>
+          </a>
+
+          <a
             href="https://endhonesa.com/"
             className={styles.card}
             target="_blank"
@@ -82,24 +100,6 @@ export default function Home() {
           >
             <h3>Skateboards Shop &rarr;</h3>
             <p>Will bring you all the best skateboarding goods.</p>
-          </a>
-
-          <a
-            href="https://init.straight-line.org/"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Initialization Page &rarr;</h3>
-            <p>The init page initializes and controls processes.</p>
-          </a>
-
-          <a
-            href="https://prompt.straight-line.org/"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Console Prompts &rarr;</h3>
-            <p>A window in which the text-mode programs are active.</p>
           </a>
         </div>
       </main>

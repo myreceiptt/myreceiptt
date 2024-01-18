@@ -57,7 +57,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/"
+            href="https://iqraa.straight-line.org/the-kings/"
             className={styles.card}
             target="_blank"
           >

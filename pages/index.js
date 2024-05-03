@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
+        <Analytics/>
         <title>MyReceipt: Initialization Page!</title>
         <link rel="icon" href="/1.47.png" />
         <link rel="apple-touch-icon" href="/1.47.png" />

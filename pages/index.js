@@ -6,7 +6,6 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <Analytics/>
         <title>MyReceipt: Initialization Page!</title>
         <link rel="icon" href="/1.47.png" />
         <link rel="apple-touch-icon" href="/1.47.png" />
@@ -15,9 +14,9 @@ export default function Home() {
           name="description"
           content="The init page initializes and controls processes. Its primary role is to start processes based on records read from the MyReceipt files. MyReceipt files usually requests that the init command run the getty command for each line on which process can log in."
         />
-        
+        <Analytics/>
       </Head>
-
+      
       <main>
         <h1 className={styles.title}>
           <a href="https://www.straight-line.org" target="_blank">

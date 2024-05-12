@@ -88,7 +88,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://endhonesa.com/"
+            href="https://store.endhonesa.com/"
             className={styles.card}
             target="_blank"
           >
@@ -97,7 +97,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://skateshop.id/"
+            href="https://shop.skateshop.id/"
             className={styles.card}
             target="_blank"
           >

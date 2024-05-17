@@ -42,30 +42,12 @@ export default function Home() {
           </a>
 
           <a
-            href="https://init.straight-line.org/"
+            href="https://prompt.straight-line.org/"
             className={styles.card}
             target="_blank"
           >
-            <h3>Initialization Page &rarr;</h3>
-            <p>The init page initializes and controls processes.</p>
-          </a>
-
-          <a
-            href="https://deeplinks.straight-line.org/"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>The Deep Links &rarr;</h3>
-            <p>Does not facilitate the access to or use of the links.</p>
-          </a>
-
-          <a
-            href="https://iqraa.straight-line.org/the-kings/"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>The KING's NFTs &rarr;</h3>
-            <p>Find all the information about The KING's NFTs project!</p>
+            <h3>Console Prompts &rarr;</h3>
+            <p>A window in which the text-mode programs are active.</p>
           </a>
 
           <a
@@ -78,6 +60,15 @@ export default function Home() {
           </a>
 
           <a
+            href="https://iqraa.straight-line.org/tutor-x-educator/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Tutors X Educators &rarr;</h3>
+            <p>A collection of educational materials by Prof. NOTA.</p>
+          </a>
+
+          <a
             href="https://wp.straight-line.org/"
             className={styles.card}
             target="_blank"
@@ -85,6 +76,15 @@ export default function Home() {
             <h3>Working Progress &rarr;</h3>
             <p>
               It’s a working progress, it's not a work in progress.</p>
+          </a>
+
+          <a
+            href="https://deeplinks.straight-line.org/"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>The Deep Links &rarr;</h3>
+            <p>Does not facilitate the access to or use of the links.</p>
           </a>
 
           <a

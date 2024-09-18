@@ -22,7 +22,7 @@
 - 📫 &nbsp; Jangan coba hubungi kami.
 - ⚡ &nbsp; Fakta menarik: [Proyek NFT Sang Raja](https://iqraa.straight-line.org/the-kings-nfts/)
 
-> Here is how to get you started in this 0101 Universe:
+> Here is how to get you started in this 0101 Universe:  
 > Berikut cara memulai di Semesta 0101 ini:
 
 ```json
@@ -55,7 +55,7 @@
 }
 ```
 
-> Init! Init it! Init!
+> Init! Init it! Init!  
 > Init! Init ini! Init!
 
 ```javascript

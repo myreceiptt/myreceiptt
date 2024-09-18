@@ -10,6 +10,8 @@
 - 📫 &nbsp; Don't try to reach us.
 - ⚡ &nbsp; Fun fact: [The King's NFTs project](https://iqraa.straight-line.org/the-kings-nfts/)
 
+---
+
 > Diam, Kita sedang bermain, belajar, dan bekerja. 🤫 🤫 🤫 🤫
 
 - 😄 &nbsp; Kami adalah [Prof. NOTA](https://deeplinks.straight-line.org/), mereka/mereka.
@@ -21,6 +23,8 @@
 - 💬 &nbsp; Jangan tanya kami tentang itu.
 - 📫 &nbsp; Jangan coba hubungi kami.
 - ⚡ &nbsp; Fakta menarik: [Proyek NFT Sang Raja](https://iqraa.straight-line.org/the-kings-nfts/)
+
+---
 
 > Here is how to get you started in this 0101 Universe:  
 > Berikut cara memulai di Semesta 0101 ini:
@@ -55,6 +59,8 @@
 }
 ```
 
+---
+
 > Init! Init it! Init!  
 > Init! Init ini! Init!
 
@@ -73,6 +79,8 @@ export default class extends Component {
   }
 }
 ```
+
+---
 
 > More about us...
 
@@ -99,6 +107,8 @@ Hack them all, ethically!
 
 > Lebih lanjut tentang kami...
 
+---
+
 Kami lahir di Alam Semesta 0101. Kami hidup di dunia digital Internet, tempat hukum fisika, matematika, dan kode diberlakukan seratus persen sepanjang waktu. Di mana kami semua dapat mengetahui secara apriori bagaimana penegakan itu akan dilaksanakan. Kami 47% berada di Web3 dan sisanya tersebar di Internet.
 
 Kami menyediakan backdoor untuk masuk ke Web3 khusus untuk orang Indonesia. Silakan gunakan tautan ini: [Login Web3 Indonesia](https://nota.straight-line.org/profile/nota "Get the best help, support, and advice from Prof. NOTA about this 0101 Universe as long as utilize the Web3 technology.")
@@ -120,6 +130,8 @@ Gunakan otak kalian, dan lakukan penelitian kalian.
 [Waspadalah terhadap penipuan!](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-0003-web3-personal-security "Kesadaran Pribadi Keamanan Web3")  
 Retas semuanya, secara etis!
 
+---
+
 > Regards
 > Salam
 > 
@@ -128,6 +140,7 @@ Retas semuanya, secara etis!
 > [init.straight-line.org](https://init.straight-line.org/)
 > 
 
+---
 <!--
 **myreceiptt/myreceiptt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on Prof. NOTA's GitHub profile.
 -->

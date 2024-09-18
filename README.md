@@ -90,14 +90,14 @@ We provide a backdoor to enter Web3 specifically for Indonesians. Please use thi
 
 Yes, we know, Web3 this, Web3 that, Web3 her, Web3 him, Web3 they, what the freak is Web3, right?
 
-So, [what Web3 is...](#)  
-[What Web3 crypto is...](#)  
-Is there any [Web3 example...](#)  
-Where to [learn Web3...](#)
+So, [what Web3 is...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)  
+[What Web3 crypto is...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)  
+Is there any [Web3 example...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)  
+Where to [learn Web3...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)
 
 Take it easy! We're not going to push your limit knowing it, but we're here trying our best to show you that diving into the digital world can be as easy as [peeling a BANANA](https://bananow.land/). Whether we're PLAYING, LEARNING, or WORKING, we've got your back.
 
-You can say we are [Web3 workers](#), [Web3 developers](#), or [Web3 businesses](#) with our [Web3 jobs](#). You also can say we are [Web3 activists](#), [Web3 artists](#), or even [Web3 scams](#) with [no experience in Web3 jobs](#).
+You can say we are [Web3 workers](https://nota.straight-line.org/profile), [Web3 developers](https://nota.straight-line.org/profile), or [Web3 businesses](https://nota.straight-line.org/profile) with our [Web3 jobs](https://nota.straight-line.org/profile). You also can say we are [Web3 activists](https://nota.straight-line.org/profile), [Web3 artists](https://nota.straight-line.org/profile), or even [Web3 scams](https://nota.straight-line.org/profile) with [no experience in Web3 jobs](https://nota.straight-line.org/profile).
 
 That is up to you.  
 Use your brain, and do your research.  
@@ -115,14 +115,14 @@ Kami menyediakan backdoor untuk masuk ke Web3 khusus untuk orang Indonesia. Sila
 
 Ya, kami tahu, Web3 ini, Web3 itu, Web3 dia, Web3 mereka, apa sih Web3 itu?
 
-Jadi, [apa itu Web3...](#)  
-[Apa itu Web3 crypto...](#)  
-Apakah ada [contoh Web3...](#)  
-Di mana [mempelajari Web3...](#)  
+Jadi, [apa itu Web3...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)  
+[Apa itu Web3 crypto...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)  
+Apakah ada [contoh Web3...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)  
+Di mana [mempelajari Web3...](https://iqraa.straight-line.org/tutor-x-educator/v/tutor-01-blockchain-fundamental)  
 
 Santai saja! Kami tidak akan memaksakan batas kemampuan kalian, tetapi kami di sini berusaha sebaik mungkin untuk menunjukkan kepada kalian bahwa terjun ke dunia digital semudah [mengupas PISANG](https://bananow.land/). Baik saat kita BERMAIN, BELAJAR, atau BEKERJA, kami mendukung kalian.
 
-Kalian dapat mengatakan kami adalah [pekerja Web3](#), [pengembang Web3](#), atau [bisnis Web3](#) dengan [pekerjaan Web3](#) kami. Anda juga dapat mengatakan kami adalah [aktivis Web3](#), [seniman Web3](#), atau bahkan [penipu Web3](#) [tanpa pengalaman dalam pekerjaan Web3](#).
+Kalian dapat mengatakan kami adalah [pekerja Web3](https://nota.straight-line.org/profile), [pengembang Web3](https://nota.straight-line.org/profile), atau [bisnis Web3](https://nota.straight-line.org/profile) dengan [pekerjaan Web3](https://nota.straight-line.org/profile) kami. Anda juga dapat mengatakan kami adalah [aktivis Web3](https://nota.straight-line.org/profile), [seniman Web3](https://nota.straight-line.org/profile), atau bahkan [penipu Web3](https://nota.straight-line.org/profile) [tanpa pengalaman dalam pekerjaan Web3](https://nota.straight-line.org/profile).
 
 Itu terserah kalian.  
 Gunakan otak kalian, dan lakukan penelitian kalian.  
@@ -132,7 +132,7 @@ Retas semuanya, secara etis!
 
 ---
 
-> Regards
+> Regards  
 > Salam
 > 
 > [Prof. NOTA Inc.](https://nota.straight-line.org/)

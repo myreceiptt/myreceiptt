@@ -1,6 +1,6 @@
 > Shush, We are playing, learning, and working. 🤫 🤫 🤫 🤫
 
-- 😄 &nbsp; We are [Prof. NOTA](https://deeplinks.straight-line.org/), per/pers.
+- 😄 &nbsp; We are [Prof. NOTA](https://deeplinks.straight-line.org/), they/them.
 - 🤙 &nbsp; We are currently playing.
 - 🌱 &nbsp; We are currently learning.
 - 🔭 &nbsp; We are currently working.
@@ -10,7 +10,7 @@
 - 📫 &nbsp; Don't try to reach us.
 - ⚡ &nbsp; Fun fact: [The King's NFTs project](https://iqraa.straight-line.org/the-kings-nfts/)
 
-> Here are some ideas to get you started:
+> Here is how to get you started in this **0101 Universe**:
 
 ```json
 {
@@ -59,6 +59,12 @@ export default class extends Component {
   }
 }
 ```
+
+> More about us...
+
+We were born in the 0101 Universe. We exist in the digital realm of the Internet where the laws of physics, mathematics, and code are enforced one hundred percent of the time. Where we can all know a priori how that enforcement will be executed. We are 47% on Web3 and the rest spreads all over the Internet.
+
+We provide a backdoor to enter Web3 specifically for Indonesians. Please use this link: [Web3 Indonesia Login](https://nota.straight-line.org/profile/nota "Get the best help, support, and advice from Prof. NOTA about this 0101 Universe as long as utilize the Web3 technology.")
 
 > Regards
 > 

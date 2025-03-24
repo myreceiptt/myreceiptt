@@ -137,7 +137,7 @@ Retas semuanya, secara etis!
 >
 > [Prof. NOTA Inc.](https://nota.endhonesa.com/)
 >
-> [init.straight-line.org](https://init.endhonesa.com/)
+> [init.endhonesa.com](https://init.endhonesa.com/)
 
 ---
 

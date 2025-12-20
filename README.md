@@ -1,3 +1,35 @@
+# MyReceipt - Init
+
+---
+---
+
+## Evergreen
+
+### Status
+
+- State: active
+- Last run: 2025-12-20
+- Package manager: npm 11.7.0 (Node 24.12.0)
+
+### Monthly checklist
+
+- `npm outdated` (clean)
+- `npm install`
+- `npm audit fix` (0 vulnerabilities)
+- Local sanity check: green
+
+### Quarterly checklist
+
+- Dependency majors updated to latest stable
+  - `next`: 13.5.6 -> 16.1.0
+  - `react`: 18.2.0 -> 19.2.3
+  - `react-dom`: 18.2.0 -> 19.2.3
+  - `@vercel/analytics`: 1.2.2 -> 1.6.1
+- Package manager verified at latest stable
+
+---
+---
+
 > Shush, We are playing, learning, and working. 🤫 🤫 🤫 🤫
 
 - 😄 &nbsp; We are [Prof. NOTA](https://deeplink.endhonesa.com/), they/them.

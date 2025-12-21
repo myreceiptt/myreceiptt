@@ -3,7 +3,9 @@
 ---
 ---
 
-## Evergreen
+## Maintenance by Prof. NOTA Evergreen Standard
+
+This repo is intended to stay evergreen while remaining production-safe.
 
 ### Status
 

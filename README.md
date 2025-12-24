@@ -7,27 +7,67 @@
 
 This repo is intended to stay evergreen while remaining production-safe.
 
-### Status
+### Runtime
 
-- State: active
-- Last run: 2025-12-20
-- Package manager: npm 11.7.0 (Node 24.12.0)
+- Node: **24.x** (see `.nvmrc` and `package.json#engines`)
 
-### Monthly checklist
+  - ~~example alternatives: 22.x / 20.x (adjust if platform requires)~~
 
-- `npm outdated` (clean)
-- `npm install`
-- `npm audit fix` (0 vulnerabilities)
-- Local sanity check: green
+- Package manager:
 
-### Quarterly checklist
+  - **NPM** (lockfile: `package-lock.json`)
+  - ~~Yarn (lockfile: `yarn.lock`)~~
+  - ~~PNPM (lockfile: `pnpm-lock.yaml`)~~
 
-- Dependency majors updated to latest stable
-  - `next`: 13.5.6 -> 16.1.0
-  - `react`: 18.2.0 -> 19.2.3
-  - `react-dom`: 18.2.0 -> 19.2.3
-  - `@vercel/analytics`: 1.2.2 -> 1.6.1
-- Package manager verified at latest stable
+- Deploy target:
+
+  - **Vercel**
+  - ~~Netlify~~
+  - ~~Self-hosted / Docker~~
+  - ~~Other platform (document explicitly)~~
+
+### Monthly Safe Updates (recommended)
+
+1. Check what’s outdated:
+
+   - `npm outdated`
+   - ~~yarn outdated~~
+   - ~~pnpm outdated~~
+
+2. Upgrade safe (patch/minor) versions:
+
+   - `npm update`
+   - ~~yarn upgrade~~
+   - ~~pnpm update~~
+   - or upgrade specific packages shown as non-major
+
+3. Verify:
+
+   - `npm audit --audit-level=moderate`
+   - ~~yarn audit --level moderate~~
+   - ~~pnpm audit~~
+   - `npm run lint`
+   - ~~yarn lint~~
+   - ~~pnpm lint~~
+   - `npm run build`
+   - ~~yarn build~~
+   - ~~pnpm build~~
+
+4. Deploy:
+
+   - **Vercel auto-deploy from `main`**
+   - ~~manual deploy according to platform workflow~~
+
+### Major Updates (quarterly / scheduled)
+
+Major upgrades (framework, runtime, or core tooling) must be done one at a time, with a dedicated PR and full testing.
+
+Examples:
+
+- Node major version
+- Next.js / React major version
+- Tailwind CSS major version
+- Package manager major version
 
 ---
 ---

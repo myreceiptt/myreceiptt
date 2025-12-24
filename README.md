@@ -1,6 +1,7 @@
 # MyReceipt - Init
 
 ---
+
 ---
 
 ## Maintenance by Prof. NOTA Evergreen Standard
@@ -70,6 +71,7 @@ Examples:
 - Package manager major version
 
 ---
+
 ---
 
 > Shush, We are playing, learning, and working. 🤫 🤫 🤫 🤫

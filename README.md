@@ -2,88 +2,12 @@
 
 ---
 
----
+> Shush, we are playing, learning, and working. 🤫 🤫 🤫 🤫
 
-## Maintenance by Prof. NOTA Evergreen Standard
-
-This repo is intended to stay evergreen while remaining production-safe.
-
-### Runtime
-
-- Node: **24.x** (see `.nvmrc` and `package.json#engines`)
-
-  - ~~example alternatives: 22.x / 20.x (adjust if platform requires)~~
-
-- Package manager:
-
-  - **NPM** (lockfile: `package-lock.json`)
-  - ~~Yarn (lockfile: `yarn.lock`)~~
-  - ~~PNPM (lockfile: `pnpm-lock.yaml`)~~
-
-- Deploy target:
-
-  - **Vercel**
-  - ~~Netlify~~
-  - ~~Self-hosted / Docker~~
-  - ~~Other platform (document explicitly)~~
-
-### Monthly Safe Updates (recommended)
-
-1. Check what’s outdated:
-
-   - `npm outdated`
-   - ~~yarn outdated~~
-   - ~~pnpm outdated~~
-
-2. Upgrade safe (patch/minor) versions:
-
-   - `npm update`
-   - ~~yarn upgrade~~
-   - ~~pnpm update~~
-   - or upgrade specific packages shown as non-major
-
-3. Verify:
-
-   - `npm audit --audit-level=moderate`
-   - ~~yarn audit --level moderate~~
-   - ~~pnpm audit~~
-   - `npm run lint`
-   - ~~yarn lint~~
-   - ~~pnpm lint~~
-   - `npm run build`
-   - ~~yarn build~~
-   - ~~pnpm build~~
-
-4. Deploy:
-
-   - **Vercel auto-deploy from `main`**
-   - ~~manual deploy according to platform workflow~~
-
-### Major Updates (quarterly / scheduled)
-
-Major upgrades (framework, runtime, or core tooling) must be done one at a time, with a dedicated PR and full testing.
-
-Examples:
-
-- Node major version
-- Next.js / React major version
-- Tailwind CSS major version
-- Package manager major version
-
----
-
----
-
-> Shush, We are playing, learning, and working. 🤫 🤫 🤫 🤫
-
-- 😄 &nbsp; We are [Prof. NOTA](https://deeplink.endhonesa.com/), they/them.
+- 😄 &nbsp; We are [Prof. NOTA](https://nota.endhonesa.com/), they/them.
 - 🤙 &nbsp; We are currently playing.
 - 🌱 &nbsp; We are currently learning.
 - 🔭 &nbsp; We are currently working.
-- 👯 &nbsp; We are not looking to collaborate.
-- 🤔 &nbsp; We are not looking for help.
-- 💬 &nbsp; Don't ask us about that.
-- 📫 &nbsp; Don't try to reach us.
 - ⚡ &nbsp; Fun fact: [The King's NFTs project](https://docs.endhonesa.com/)
 
 ---
@@ -94,10 +18,6 @@ Examples:
 - 🤙 &nbsp; Kami sedang bermain.
 - 🌱 &nbsp; Kami sedang belajar.
 - 🔭 &nbsp; Kami sedang bekerja.
-- 👯 &nbsp; Kami tidak mencari kerja sama.
-- 🤔 &nbsp; Kami tidak mencari bantuan.
-- 💬 &nbsp; Jangan tanya kami tentang itu.
-- 📫 &nbsp; Jangan coba hubungi kami.
 - ⚡ &nbsp; Fakta menarik: [Proyek NFT Sang Raja](https://docs.endhonesa.com/)
 
 ---
@@ -160,7 +80,7 @@ export default class extends Component {
 
 > More about us...
 
-We were born in the 0101 Universe. We exist in the digital realm of the Internet where the laws of physics, mathematics, and code are enforced one hundred percent of the time. Where we can all know a priori how that enforcement will be executed. We are 47% on Web3 and the rest spreads over the Internet.
+We were born in the 0101 Universe. We exist in the digital realm of the Internet, where the laws of physics, mathematics, and code are enforced one hundred percent of the time. Where we can all know a priori how that enforcement will be executed. We are 47% on Web3, and the rest spreads over the Internet.
 
 We provide a backdoor to enter Web3 specifically for Indonesians. Please use this link: [Web3 Indonesia Login](https://nota.endhonesa.com/profile/nota "Get the best help, support, and advice from Prof. NOTA about this 0101 Universe as long as utilize the Web3 technology.")
 

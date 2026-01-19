@@ -14,7 +14,7 @@
 
 > Diam, Kita sedang bermain, belajar, dan bekerja. 🤫 🤫 🤫 🤫
 
-- 😄 &nbsp; Kami adalah [Prof. NOTA](https://deeplink.endhonesa.com/), mereka/mereka.
+- 😄 &nbsp; Kami adalah [Prof. NOTA](https://nota.endhonesa.com/), mereka/mereka.
 - 🤙 &nbsp; Kami sedang bermain.
 - 🌱 &nbsp; Kami sedang belajar.
 - 🔭 &nbsp; Kami sedang bekerja.
